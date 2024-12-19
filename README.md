@@ -9,14 +9,12 @@ Teamwork and Collaboration: Throughout the project, we emphasized teamwork and c
 
 **Setting Requirements and Timelines:** At the outset, we carefully defined clear project requirements and set realistic timelines for each phase. This helped us stay organized, ensure we met our milestones, and deliver a working product on time.
 
-****Learning and Applying Skills:** This project allowed us to apply a range of programming skills, from backend development in Python to frontend development with HTML, CSS, and JavaScript. We used React to build the interface, Python for backend data processing, and integrated dynamic APIs for real-time data updates.
+****Learning and Applying Skills:** This project allowed us to apply a range of programming skills such as getting started working with API's. We used Tkinter to display the GUI to the user.
 
 **Technologies Used:**
-Frontend: HTML, CSS, JavaScript (React)
-Backend: Python
+Python
 Version Control: Git, GitHub
-Deployment: GitHub Pages
 
 In Development 
---
---Interface made in React to display content hosted on Gitpages.
+-- 
+--Interface made in React utilizing JS, HTML, CSS, to display content hosted on Gitpages.
